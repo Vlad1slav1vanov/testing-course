@@ -1,0 +1,23 @@
+{
+  "name": "testing-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vlad1slav1vanov/testing-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vlad1slav1vanov/testing-course/issues"
+  },
+  "homepage": "https://github.com/Vlad1slav1vanov/testing-course#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
